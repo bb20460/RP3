@@ -7,8 +7,10 @@ Notebooks have been provided for the figure generations as well as the source of
 links for the models/reference examples used in this study
 
 xView2: Building Damage Assessment
-1) https://github.com/DIUx-xView/xView2_baseline.git                     
-1.1) https://github.com/vdurnov/xview2_1st_place_solution.git
+1) https://github.com/DIUx-xView/xView2_baseline.git   
+2)                   
+3.1) https://github.com/vdurnov/xview2_1st_place_solution.git
+
 1.1.1) https://github.com/DIUx-xView/xView2_first_place/releases
 
 Landsat Temperature Downscaling
