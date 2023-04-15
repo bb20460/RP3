@@ -22,9 +22,13 @@ Planet API:
 https://github.com/planetlabs/planet-client-python.git
 
 
-TO-DO/Caveats (in further research)
+TO-DO/Caveats: (in further research)
+
 ☐ Change the recent collections to filter for images that have the same acquisition time (within 30mins) over the course of a longer time period instead of within a week. 
+
 ☐ Connect all together
+
 ☐ Do not directly call os.system command line calls, use GDAL api if available (?) and generalise for multiple application systems
+
 ☐ Finish steamlit website application/ or generate a user interface where a point is drawn on an interactive map.
 ...
