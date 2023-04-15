@@ -31,4 +31,6 @@ TO-DO/Caveats: (in further research)
 ☐ Do not directly call os.system command line calls, use GDAL api if available (?) and generalise for multiple application systems
 
 ☐ Finish steamlit website application/ or generate a user interface where a point is drawn on an interactive map.
+
+☐ Main.py file which connects all utilities and methods
 ...
