@@ -4,5 +4,24 @@ The codebase for the research project into the application of satellite remote s
 
 Notebooks have been provided for the figure generations as well as the source of the data being used to generate them. Images and respective geojson files for each case study have been provided for ease of replication/interest. As of 19/04/2023, the datasets are accessible and provide the results obtained.
 
+#links for the models/reference examples used in this study
+
+xView2: Building Damage Assessment
+1) https://github.com/DIUx-xView/xView2_baseline.git                     
+1.1) https://github.com/vdurnov/xview2_1st_place_solution.git
+1.1.1) https://github.com/DIUx-xView/xView2_first_place/releases
+
+Landsat Temperature Downscaling
+1) https://github.com/palubad/LST-downscaling-to-10m-GEE.git
+
+General GEE code:
+1) https://github.com/google/earthengine-community.git
+2) https://github.com/google/earthengine-api.git
+
+Planet API:
+https://github.com/planetlabs/planet-client-python.git
+
+
+
 #TO-DO/Caveats (in further research)
 [ insert things that still need doing ]
