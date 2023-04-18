@@ -1,6 +1,4 @@
-# RP3: SATELLITE REMOTE SENSING TECHNIQUES FOR DETECTING PROXIES
-OF RADIATION ANOMALIES AT NUCLEAR FACILITIES: PROCESSING
-PROCEDURES AND LIMITATIONS
+# RP3: SATELLITE REMOTE SENSING TECHNIQUES FOR DETECTING PROXIES OF RADIATION ANOMALIES AT NUCLEAR FACILITIES: PROCESSING PROCEDURES AND LIMITATIONS
 
 The codebase for the research project into the application of satellite remote sensing techniques to continual monitoring with a primary focus for radiation detection, thermal infrared, and general safety of nuclear power plants. Here, the code outlines the production of figures relevant to the research conducted in the project and marks a point for further research into an analytics based platform. Caveats for this are mentioned below in To-Do and mark areas of further research to be carried out.
 
