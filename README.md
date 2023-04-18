@@ -1,6 +1,6 @@
 # RP3: [Title]
 
-The codebase for the research project into the application of satellite remote sensing techniques to continual monitoring with a primary focus on radiation detection, thermal infrared, and general safety of nuclear power plants. Here, the code has attempted to be made to facilate the use of this research in a general analytics platform. Caveats for this are mentioned below in To-Do and mark areas of further research to be carried out.
+The codebase for the research project into the application of satellite remote sensing techniques to continual monitoring with a primary focus for radiation detection, thermal infrared, and general safety of nuclear power plants. Here, the code outlines the production of figures relevant to the research conducted in the project and marks a point for further research into an analytics based platform. Caveats for this are mentioned below in To-Do and mark areas of further research to be carried out.
 
 Notebooks have been provided for the figure generations as well as the source of the data being used to generate them. Images and respective geojson files for each case study have been provided for ease of replication/interest. As of 19/04/2023, the datasets are accessible and provide the results obtained.
 
